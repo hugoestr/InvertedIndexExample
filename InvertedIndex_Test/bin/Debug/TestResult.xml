@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\development\c++\InvertedIndex\InvertedIndex_Test\bin\Debug\InvertedIndex_Test.dll" total="8" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-06-13" time="20:48:23">
+  <environment nunit-version="2.5.9.10348" clr-version="2.0.50727.5444" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\development\c++\InvertedIndex\InvertedIndex_Test\bin\Debug" machine-name="ZEKIAHUSER-PC" user="hestrada" user-domain="ZekiahUser-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\development\c++\InvertedIndex\InvertedIndex_Test\bin\Debug\InvertedIndex_Test.dll" executed="True" result="Success" success="True" time="0.090" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="InvertedIndex_Test" executed="True" result="Success" success="True" time="0.084" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="InvertedIndex_IntegrationTests" executed="True" result="Success" success="True" time="0.066" asserts="0">
+            <results>
+              <test-case name="InvertedIndex_Test.InvertedIndex_IntegrationTests.Should_Load_Index" executed="True" result="Success" success="True" time="0.052" asserts="1" />
+              <test-case name="InvertedIndex_Test.InvertedIndex_IntegrationTests.Should_Load_Index_At_Constructor_If_Path_Provided" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="InvertedIndex_Test.InvertedIndex_IntegrationTests.Should_Save_Index" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="InvertedIndex_Tests" executed="True" result="Success" success="True" time="0.013" asserts="0">
+            <results>
+              <test-case name="InvertedIndex_Test.InvertedIndex_Tests.Should_Add_Records_To_Index" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="InvertedIndex_Test.InvertedIndex_Tests.Should_Break_Multiple_Terms" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="InvertedIndex_Test.InvertedIndex_Tests.Should_Remove_Index_By_Value" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="InvertedIndex_Test.InvertedIndex_Tests.Should_Remove_Record_From_Index" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="InvertedIndex_Test.InvertedIndex_Tests.Should_Search_For_Terms" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1009]C:\development\c++\InvertedIndex\InvertedIndex_Test\bin\Debug\InvertedIndex_Test.dll</TopNode>
+  <SelectedNode>[0-1010]InvertedIndex_Test</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1009]C:\development\c++\InvertedIndex\InvertedIndex_Test\bin\Debug\InvertedIndex_Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1010]InvertedIndex_Test" Expanded="true" />
+    <Node UniqueName="[0-1006]InvertedIndex_Test.InvertedIndex_IntegrationTests" Expanded="true" />
+    <Node UniqueName="[0-1000]InvertedIndex_Test.InvertedIndex_Tests" Expanded="true" />
+  </Nodes>
+</VisualState>

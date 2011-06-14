@@ -1,0 +1,12 @@
+C:\development\c++\InvertedIndex\InvertedIndex_Test\obj\Debug\ResolveAssemblyReference.cache
+C:\development\c++\InvertedIndex\InvertedIndex_Test\bin\Debug\InvertedIndex_Test.dll
+C:\development\c++\InvertedIndex\InvertedIndex_Test\bin\Debug\InvertedIndex_Test.pdb
+C:\development\c++\InvertedIndex\InvertedIndex_Test\bin\Debug\InvertedIndex.dll
+C:\development\c++\InvertedIndex\InvertedIndex_Test\bin\Debug\Moq.dll
+C:\development\c++\InvertedIndex\InvertedIndex_Test\bin\Debug\nunit.framework.dll
+C:\development\c++\InvertedIndex\InvertedIndex_Test\bin\Debug\InvertedIndex.pdb
+C:\development\c++\InvertedIndex\InvertedIndex_Test\bin\Debug\Moq.pdb
+C:\development\c++\InvertedIndex\InvertedIndex_Test\bin\Debug\Moq.xml
+C:\development\c++\InvertedIndex\InvertedIndex_Test\bin\Debug\nunit.framework.xml
+C:\development\c++\InvertedIndex\InvertedIndex_Test\obj\Debug\InvertedIndex_Test.dll
+C:\development\c++\InvertedIndex\InvertedIndex_Test\obj\Debug\InvertedIndex_Test.pdb
